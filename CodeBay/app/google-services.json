@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709377223534",
+    "firebase_url": "https://codebay-43785.firebaseio.com",
+    "project_id": "codebay-43785",
+    "storage_bucket": "codebay-43785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709377223534:android:0cc29c1ddddfce25",
+        "android_client_info": {
+          "package_name": "com.example.oo.codebay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709377223534-6hd15n3e0i6l3htfqoh8vj45368dao3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oo.codebay",
+            "certificate_hash": "2a027cb07f279127624f8e2714bdd74c8a35638c"
+          }
+        },
+        {
+          "client_id": "709377223534-se1gpcebhhmc5rv14vosv545mcq53euo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPX9SMs3HXSKuo1C7OY_0HWWG3UnrtrjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709377223534-se1gpcebhhmc5rv14vosv545mcq53euo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
