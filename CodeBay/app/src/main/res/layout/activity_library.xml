@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.oo.codebay.Category_activity">
+    tools:context="com.example.oo.codebay.LibraryAcitvity">
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -14,6 +14,6 @@
             android:id="@+id/rvCategory"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            tools:listitem="@layout/simple_category_item" />
+            tools:listitem="@layout/simple_library_item" />
     </FrameLayout>
 </android.support.design.widget.CoordinatorLayout>

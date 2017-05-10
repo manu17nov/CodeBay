@@ -24,7 +24,7 @@ public class Feedback extends AppCompatActivity implements View.OnClickListener,
         setContentView(R.layout.activity_feedback);
         Toolbar toolbar=(Toolbar)findViewById(R.id.toolbar);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         femail_id = (EditText) findViewById(R.id.femail_id);
         fphone_id = (EditText) findViewById(R.id.fphone_id);
         fcomposemail_id = (EditText) findViewById(R.id.fcomposemail_id);

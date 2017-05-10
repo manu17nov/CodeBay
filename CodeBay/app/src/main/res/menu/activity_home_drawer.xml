@@ -4,35 +4,34 @@
 
     <group android:checkableBehavior="single">
         <item
+            android:id="@+id/Profile_id"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile" />
+        <item
             android:id="@+id/Setting_slide"
+            android:icon="@drawable/ic_build_black_24dp"
             android:title="Setting" />
         <item
-            android:id="@+id/Feedback_Slide"
-            android:title="Feedback" />
-        <item
             android:id="@+id/About_slide"
+            android:icon="@drawable/ic_info_black_24dp"
             android:title="About" />
     </group>
     <item
-        android:id="@+id/Profile_id"
-        android:title="Profile" />
-    <item
-        android:id="@+id/Libraries_id"
-        android:title="Libraries" />
+        android:id="@+id/Logout_slide"
+        android:icon="@drawable/ic_settings_power_black_24dp"
+        android:title="Logout" />
     <item android:title="Communicate">
         <menu>
+
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
+                android:id="@+id/Feedback_Slide"
+                android:icon="@drawable/ic_feedback_black_24dp"
+                android:title="Feedback" />
             <item
                 android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
         </menu>
     </item>
-    <item
-        android:id="@+id/Logout_slide"
-        android:title="Logout" />
 
 </menu>
